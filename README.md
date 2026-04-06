@@ -1,9 +1,12 @@
 # DPSS-Efficient-Cross-Regional-Spatial-Dataset-Search
 
+## 📢 News
+* **[2026.04.05]**: This paper has been accepted by *Future Generation Computer Systems*! [ [Link](https://authors.elsevier.com/c/1muSf,3q5xvfiz) ]
+
+---
+
 This repository contains the code for the paper **"Efficient Cross-Regional Spatial Dataset Search with Kernel Density Estimation"**. This research proposes a dataset retrieval scheme aimed at addressing the challenge of discovering datasets with similar distribution patterns in cross-regional scenarios.
 
-## 📢 News
-This paper has been accepted by Future Generation Computer Systems!
 
 ## 🖼️ System Overview
 
